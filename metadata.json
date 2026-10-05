@@ -1,0 +1,6 @@
+{
+  "name": "C-UAS Tactical Threat Simulator",
+  "description": "Ministry of Defence (DSSC) AI-Enabled Drone & Counter-Drone Tactical Combat Simulation and Decision-Tree RoE Trainer with 3D multi-spectrum optics, Boids swarm kinematics, and After-Action Review dossier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
